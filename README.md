@@ -1,8 +1,7 @@
-- 😴 Hi, I’m @tiderke
+- 😴 olá meu nome é tiderke
 - 👀 meu interesse é criar sites
-- 🌱 I’m currently learnin
 - meu [instagram](https://www.instagram.com/samueltiderke/)
-- 😁eu tenho 15 anos
+- 😁Eu tenho 15 anos
 
 <!---
 tiderke/tiderke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
